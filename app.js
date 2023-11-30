@@ -2,7 +2,7 @@
 
 //récupération de l'élément input par son id firstColor
 const fistColorElt = document.getElementById('firstColor');
-//console.log(fistColorElt);
+//console.log(fistColorElt); 
 
 //récupération de l'élément input par son id secondColor
 const secondColorElt = document.getElementById('secondColor');
